@@ -15,4 +15,4 @@ I am a first-year Electronics and Telecommunication (ENTC) Engineering student f
 
 ## 📈 My Summer Progress
 You can track my daily technical evolution and project files right here: 
-👉 [View My Summer 2026 Progress Repo](https://github.com/YOUR-USERNAME/ENTC-Summer-Vacation-2026)
+👉 [View My Summer 2026 Progress Repo](https://github.com/md-ayaz26/ENTC-Summer-break)
